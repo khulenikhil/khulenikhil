@@ -16,14 +16,8 @@
 * I can code in `C/C++`, `Java`, `Python` and other languages.
 * I am currently exploring the Modern Data Stack.
 
-## Current Projects
-
-* **[That Data Blog]**: A blog to share the knowledge I have/will get on software engineering, big data and other technical areas.
-
-    [That Data Blog]: <https://khulenikhil.github.io/That-Data-Blog/>
-
 ## Contact Me
 
-* Twitter: [**@1903nikhil**](https://twitter.com/1903nikhil)
+* Twitter: [**@khule_nikhil_01**](https://twitter.com/khule_nikhil_01)
 * LinkedIn: [**Nikhil Khule**](https://linkedin.com/in/nikhilkhule)
 * GitHub: [**@khulenikhil**](https://github.com/khulenikhil)
