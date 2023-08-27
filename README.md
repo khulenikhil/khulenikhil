@@ -3,13 +3,9 @@
 ## About Me
 
 * I am a **Software Engineer** from **India**.
-* [Unqork Certified Associate Configurator].
-* Always learning something.
 * I like to solve problems and to improve existing solutions to the problems.
 * Passionate Formula One Fan.
 * I believe that knowledge grows by sharing.
-
-    [Unqork Certified Associate Configurator]: <https://www.unqork.com/>
 
 ## Technical Skills and Interests
 
